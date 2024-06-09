@@ -6,3 +6,7 @@ git status
 git add
 git diff - verificar modificações
 git commit
+git log
+git restore
+
+* uso do comando restore
