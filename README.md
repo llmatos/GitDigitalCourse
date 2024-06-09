@@ -10,3 +10,4 @@ git log
 git restore
 
 * uso do comando restore
+*comando git push
