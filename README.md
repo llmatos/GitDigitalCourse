@@ -13,3 +13,6 @@
 * comando git push
 * comando git pull
 * comando git fetch
+* comando git branch
+* git log --online --decorate
+* git checkout "testing"
